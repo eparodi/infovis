@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>d3.js</title>
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <style>
+            .chart div {
+                font: 10px sans-serif;
+                background-color: steelblue;
+                text-align: right;
+                padding: 0px;
+                margin: 5px;
+                color: white;
+                height: 12px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="parrafos"></div>
+        <div class="chart"></div>
+        <svg></svg>
+
+        <script>
+            var datos = [
+                {"platform":"Mobile Games","earnings":538308},
+                {"platform":"Console Games","earnings":334596},
+                {"platform":"PC Games","earnings":317755}
+            ];
+
+            d3.select("div#parrafos")
+                .selectAll("p")
+                .data(datos)
+                .enter().append("p")
+                .attr("class","p1")
+                .text( function(d,i) {return i+1 + ". " + d.platform + " " + d.earnings.toLocaleString(); } );
+            var color = "#7BAAF7";
+
+            var svg = d3.select("svg");
+
+            svg.selectAll("rect").data(datos).enter().append("rect")                   
+            .attr("y", function(d, i) { return i * 20})
+            .attr("width",  function(d) { return d.earnings/3000; })
+            .attr("height", 15)
+            .attr("fill","steelblue");
+
+            svg.selectAll("text").data(datos).enter().append("text")
+            .attr("text-anchor","end")
+            .attr("y", function(d, i) { return i * 20 + 10})
+            .attr("x", function(d) { return d.earnings/3000 - 5; })
+            .attr("font-size","10")
+            .attr("font-family","Helvetica")
+            .attr("fill","white")
+            .text(function(d){ return d.platform});
+        </script>
+    </body>
+</html>
