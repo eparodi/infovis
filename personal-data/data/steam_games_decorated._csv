@@ -1,0 +1,167 @@
+﻿Genres,Number of Records,Achievements,Appid,Earned Achievements,Genre,Img Icon Url,Img Logo Url,Is Multiplayer,Name,Playtime Forever,Playtime Linux Forever,Playtime Mac Forever,Playtime Windows Forever,Price,Reviews,Total Achievements
+Shooter,1,,20,0,FPS,38ea7ebe3c1abbbbf4eabdbef174c41a972102b9,515bc393c861d91b9165f0697040c015f50bcb5e,True,Team Fortress Classic,0,0,0,0,67.99,Mostly Positive,0
+Shooter,1,,50,0,FPS,04e81206c10e12416908c72c5f22aad411b3aeef,bb696ddfd8f8ef0892d5f2154d8617528d3cc2ec,True,Half-Life: Opposing Force,310,0,0,310,67.99,Very Positive,0
+Shooter,1,,70,0,FPS,95be6d131fc61f145797317ca437c9765f24b41c,6bd76ff700a8c7a5460fbae3cf60cb930279897d,True,Half-Life,0,0,0,0,129.99,Overwhelmingly Positive,0
+Shooter,1,,130,0,FPS,b06fdee488b3220362c11704be4edad82abeed08,927d38e83e3e4ca218a0fc7b32515eeb99aa8ff7,False,Half-Life: Blue Shift,141,0,0,141,67.99,Very Positive,0
+Shooter,1,0.181818182,220,6,FPS,fcfb366051782b8ebf2aa297f3b746395858cb62,e4ad9cf1b7dc8475c1118625daf9abd4bdcbcad0,False,Half-Life 2,169,0,0,169,129.99,Overwhelmingly Positive,33
+Shooter,1,,340,0,FPS,795e85364189511f4990861b578084deef086cb1,867cce5c4f37d5ed4aeffb57c60e220ddffe4134,False,Half-Life 2: Lost Coast,0,0,0,0,0,Very Positive,0
+Shooter,1,,280,0,FPS,b4f572a6cc5a6a84ae84634c31414b9123d2f26b,a612dd944b768e55389140298dcfda2165db8ced,False,Half-Life: Source,556,0,0,556,129.99,Mixed,0
+None,1,,360,0,,40b8a62efff5a9ab356e5c56f5c8b0532c8e1aa3,9a5b7119d4e8977fffcd370d3c24036be7cee904,,Half-Life Deathmatch: Source,0,0,0,0,,,0
+Shooter,1,,320,0,FPS,795e85364189511f4990861b578084deef086cb1,6dd9f66771300f2252d411e50739a1ceae9e5b30,True,Half-Life 2: Deathmatch,0,0,0,0,67.99,Very Positive,0
+Shooter,1,0,380,0,FPS,795e85364189511f4990861b578084deef086cb1,b5a666a961d8b39896887abbed3b78c2b837c238,False,Half-Life 2: Episode One,0,0,0,0,104.99,Very Positive,13
+Building,1,0.137931034,4000,4,Building,4a6f25cfa2426445d0d9d6e233408de4d371ce8b,70ef9d2ec9f0f4560c3cb9fee6cc3665c93c8d0c,True,Garry's Mod,1418,0,0,0,129.99,Overwhelmingly Positive,29
+Shooter,1,0,420,0,FPS,795e85364189511f4990861b578084deef086cb1,553e6a2e7a469dcbaada729baa1f5fd7764668df,False,Half-Life 2: Episode Two,0,0,0,0,104.99,Very Positive,22
+Shooter,1,0.410958904,500,30,FPS,428df26bc35b09319e31b1ffb712487b20b3245c,0f67ee504d8f04ecd83986dd7855821dc21f7a78,True,Left 4 Dead,1082,0,0,0,0,Very Positive,73
+Shooter,1,0.042105263,1250,12,FPS,d8a2d777cb4c59cf06aa244166db232336520547,354c07a75cc16f6bf551b81d27f4eee3436fc2fb,True,Killing Floor,202,0,0,0,0,Very Positive,285
+Shooter,1,0,35420,0,FPS,ae7580a60cf77b754c723c72d5e31d530fbe7804,45178d4b1999cf466fdf1ee4551f29b7e02b2bdf,True,Killing Floor Mod: Defence Alliance 2,0,0,0,0,0,Mostly Negative,30
+Shooter,1,0.571428571,550,40,FPS,7d5a243f9500d2f8467312822f8af2a2928777ed,205863cc21e751a576d6fff851984b3170684142,True,Left 4 Dead 2,20565,0,0,367,0,Overwhelmingly Positive,70
+RPG,1,0.056818182,42910,5,RPG,0eb97d0cd644ee08b1339d2160c7a6adf2ea0a65,8c59c674ef40f59c3bafde8ff0d59b7994c66477,True,Magicka,27,0,0,0,129.99,Mixed,88
+Puzzle,1,0.411764706,620,21,Puzzle,2e478fc6874d06ae5baf0d147f6f21203291aa02,d2a1119ddc202fab81d9b87048f495cbd6377502,False,Portal 2,991,0,0,0,129.99,Overwhelmingly Positive,51
+Adventure,1,0.397727273,105600,35,Adventure,858961e95fbf869f136e1770d586e0caefd4cfac,783399da7d865b7b5b1560891b1e9463345e8fa9,True,Terraria,2069,0,0,0,129.99,Overwhelmingly Positive,88
+RPG,1,0.573333333,72850,43,RPG,b9aca8a189abd8d6aaf09047dbb0f57582683e1c,c5af3cde13610fca25cd17634a96d72487d21e74,False,The Elder Scrolls V: Skyrim,4905,0,0,0,315,Very Positive,75
+None,1,0,104700,0,,5a5dd4420068a68f0d654edbfabf2bff5f8b3b0a,6c57677925f8b3658e315d3e40c1f928a7653ddf,,Super Monday Night Combat,29,0,0,0,,,4
+Adventure,1,0,207610,0,Adventure,87a13ae0a2a76488792924aa8bb0dd8a7760f931,6d756726214dd97c54966814d58508b86d5eabcf,False,The Walking Dead,0,0,0,0,0,Very Positive,48
+None,1,,12750,0,,c9367af908a9527040b41f6323aee4507bcba722,4d703d465e6e83f272ff07b3b9636fe52f2e9a19,,GRID,0,0,0,0,,,0
+None,1,0.416666667,91310,20,,1df9ab123c2180d8933038be7578a21e2442befb,62632a275a4cc08f0238ed3d589ce1d8627fde91,,Dead Island,1440,0,0,0,,,48
+Bowling,1,,12210,0,Bowling,a3cf6a64c73f991898a9e34681d0db8226eaa191,47fb2a3e0763be24e49662591d6e076c58b2178d,True,Grand Theft Auto IV,0,0,0,0,359.99,Mixed,0
+Adventure,1,,12220,0,Adventure,603a444d9092d007f2d9640d12ebba62b1efc377,40d1512d5922313878298c3731ffc066091a113a,True,Grand Theft Auto: Episodes from Liberty City,0,0,0,0,359.99,Mixed,0
+MOBA,1,0.135593220,204300,8,MOBA,4996933171d0804bd0ceb7b9a0e224b3139d18ba,2d92dc3a4b10e3e66340ebe53266b901e25ee52f,True,Awesomenauts,120,0,0,0,0,Mostly Positive,59
+Shooter,1,0.173333333,49520,13,FPS,a3f4945226e69b6196074df4c776e342d3e5a3be,86b0fa5ddb41b4dfff7df194a017f3418130d668,False,Borderlands 2,1072,0,0,0,359.99,Very Positive,75
+Adventure,1,0.5,204360,6,Adventure,9b7625f9b70f103397fd0416fd92abb583db8659,793216ec14c639bdaf2f0119c8cc408b8e9ad7b1,True,Castle Crashers,834,0,0,0,299.99,Very Positive,12
+Hack and Slash,1,,7510,0,Hack and Slash,311b4363fd29a55fbdd23f515e409785b520b6e8,85bb604055343baeae32c8afe9bc51107bb31318,False,X-Blades,0,0,0,0,0,Mixed,0
+City Builder,1,0,57690,0,City Builder,8e58ca48b978439ba4986938247fdb21a645a673,9123d91a47399baf116c2949dcebcd42b1962fbe,False,Tropico 4,0,0,0,0,0,Mostly Positive,70
+Racing,1,,4230,0,Racing,6e58478d15b247524a185384d54a1c5e7f46f530,ae3df7cdfd4f3cd906959e6fb8c49bb5a8c433ff,True,Race: The WTCC Game,0,0,0,0,439.99,Mostly Positive,0
+Racing,1,,4290,0,Racing,6e58478d15b247524a185384d54a1c5e7f46f530,ca2f3907d9490fee5820830b50c3754b45cd53e5,True,RACE: Caterham Expansion,0,0,0,0,67.99,,0
+Racing,1,,8600,0,Racing,4934ef713f31d50f516e713fdeb38c2a87f7bfa4,2b735e9b03a2b5e72ac727a8cac0bc1b95b6027a,True,RACE 07,32,0,0,0,53.99,Very Positive,0
+Racing,1,,8640,0,Racing,821174c7b09a7583b8593ea4702dc612d7334056,acdaf35df220c5f82e395253cdb53065bf89b6b4,,RACE On,0,0,0,0,,,0
+Racing,1,,8650,0,Racing,,,False,RACE 07: Andy Priaulx Crowne Plaza Raceway,0,0,0,0,0,Mixed,0
+Racing,1,,8660,0,Racing,a232ecd42fe5b9dae1d52664fea75b804d23df4a,bec45b45a4fdc8c517131fa78d9b502539347bd4,True,GTR Evolution,0,0,0,0,104.99,Positive,0
+Racing,1,,8690,0,Racing,ee464bbd11413db29255d2bd44963d401059d6ec,0e70419edd2434aef790763d026e7d75a7d9052d,True,STCC: The Game,0,0,0,0,39.99,Positive,0
+Racing,1,,8790,0,Racing,ec67f9df6d27117b8f71910cc93c6533127e2706,031f5b080cea2036701cc75098c6a8bb23831f30,True,GTR 2 - FIA GT Racing Game,0,0,0,0,104.99,Very Positive,0
+Racing,1,,44600,0,Racing,6744be21990e56e870552475acd37b7f4a168b73,,True,GTR - FIA GT Racing Game,0,0,0,0,94.99,Mixed,0
+Racing,1,,44620,0,Racing,f69db2946f486b4dffe2e999b4619ac1957fc546,0b950f4974aaca9b421773a6d5ab393e3638d04f,True,STCC II,0,0,0,0,53.99,Positive,0
+None,1,,44630,0,,a638f775e454c77b2cc06df20049ce0a09c6794f,2b03526ffc33573d715a0e7a2f2b339c9fc25a25,,RACE 07 - Formula RaceRoom Add-On,0,0,0,0,,,0
+Racing,1,,44650,0,Racing,34b989a4782e744f9156bec9fbc9e23dbdbcc6df,42de9027eb1de6e1f6de74c39da2bfea1ede4d53,True,GT Power Expansion,0,0,0,0,39.99,Positive,0
+Racing,1,,44660,0,Racing,a51f56d7637029f4165b95834b848f68085d58ef,316201daa88254521efbf2e40bd13072fb422163,True,The Retro Expansion,0,0,0,0,53.99,Positive,0
+Racing,1,,44670,0,Racing,defbbfd48b740c3f8136ef852e91f83945320c3e,16231ff44b47b3fb67650cdff6ac02bc4d198143,True,The WTCC 2010 Pack,0,0,0,0,53.99,Mostly Positive,0
+Racing,1,,44680,0,Racing,,,True,Race Injection,0,0,0,0,159.99,,0
+Racing,1,,44690,0,Racing,aee4a6592f67f485a4fb99803f319cb0a9d0910c,e3a301fbe97e7960fa958bf1f896add1d5a60fc4,True,GT Legends,0,0,0,0,104.99,Very Positive,0
+Strategy,1,0.234693878,221380,69,Strategy,109c74df17f9b67ea47d8f01e3d1ec25278b9f73,37e9da3f1174891fe38f8fb0206acda8b6bfc729,True,Age of Empires II (2013),10952,0,0,0,224.99,Very Positive,294
+RPG,1,0,200210,0,RPG,76c62602486e58f9501e09e7e8f189e86823e8d5,7577746467f351730cef1908aba37015bcf2d517,True,Realm of the Mad God,51,0,0,0,0,Mostly Positive,31
+Shooter,1,0.142857143,208090,4,Third-Person Shooter,d4dc7a4f71d4ba7c44cd05b5c235e0a387ca212b,bd03747de2f7380bd779b9a355790522b85615b2,True,Loadout,17,0,0,0,0,Mostly Positive,28
+None,1,0.037735849,218130,2,,9a0cb15760c9c744b7ef96ecc5effff22136c878,80fa1305a0eb4c3512cf2423be2716a0140d9a35,,Dungeonland,61,0,0,0,,,53
+Shooter,1,0.561497326,230410,105,Third-Person Shooter,22064646470f4c53388ba87774c7ac10f0a91ffa,3785f3576cdef5cf20a8b815bdf867154ccbe7d5,True,Warframe,15858,0,0,0,0,Very Positive,187
+Simulation,1,0.14,236390,7,Simulation,88259dcb7014dcdb109d9ece0cfc70c100bc2f9c,0c6a14f66f95baf08da8199142b09b51d3cd6273,False,War Thunder,2081,0,0,0,0,Mixed,50
+Puzzle,1,,286080,0,Puzzle,704dec3992ad6cc0bf8aca588b11089556c8b92a,2352c41981051b3a67d48484c0b0e1e372f1a5ba,False,Thinking with Time Machine,1,0,0,0,0,Very Positive,0
+None,1,,271290,0,,c2ff4b2c2652a897935631b040c5ba135fe655e3,f767633be94e6072d6b476040a1decfd6bbd93fa,,HAWKEN,48,0,0,0,,,0
+Strategy,1,,291150,0,Strategy,36aae799546733663b0cfff784d346d37fe19463,975c9f588b4d561130e04b9820fae251f03e7802,False,Evolution RTS,10,0,0,0,0,Mixed,0
+None,1,0,233250,0,,cc7e967f96e5fb35cf45c742f2c73b2d4f348bd0,951cd021ad9b793c8c0b730311c198d77b954410,,Planetary Annihilation,0,0,0,0,,,19
+None,1,0,239450,0,,175feabf1003b3b72eadeb04c71f1a8bf9749e11,858d5de04891402916627b2497610f3b5dcf9590,,Gun Monkeys,1,0,0,0,,,8
+Building,1,0,244850,0,Building,f9856a90000d88e9a89441a7381fe9877e91eaca,115f18763462ece5478d6096b22fd2f1faca0788,True,Space Engineers,31,0,0,31,0,Mostly Positive,29
+Simulation,1,0,239030,0,Simulation,102e22fc7e0689cb5a9d8cfdd5a6725d571d1a0f,eb4c045f73f9a4b1bac708e70fb12f12cd53010f,False,"Papers, Please",12,0,0,0,129.99,Very Positive,13
+Strategy,1,,4570,0,Strategy,a4c7a8cce43d797c275aaf601d6855b90ba87769,2068980dca52521b069abc109f976d72ba0b1651,True,"Warhammer 40,000: Dawn of War - Game of the Year Edition",26,0,0,0,159.99,Very Positive,0
+Strategy,1,,4580,0,Strategy,584fcb6284ffd2fcf378fb3c199a9275a0a01b2d,ed04f5f4ca5bd374fa09da62f583a7dbbf1d8558,True,"Warhammer 40,000: Dawn of War - Dark Crusade",0,0,0,0,159.99,Very Positive,0
+Strategy,1,,9310,0,Strategy,60d48bf5f8a11fc4aeacb546a20cb40f537290bf,88ca73c99d1a64b81a3306c690f0354a1643c1c1,True,"Warhammer 40,000: Dawn of War - Winter Assault",0,0,0,0,159.99,Very Positive,0
+Strategy,1,,9450,0,Strategy,d13abadb0f456659a634d2cd8286665a0c76a2c6,3b300beec0113261da00267121eccd8702059a88,True,"Warhammer 40,000: Dawn of War - Soulstorm",499,0,0,0,159.99,Very Positive,0
+Bullet Hell,1,0.04,253750,1,Shoot 'Em Up,cfa6cdfa6d0be1f019091d8ebe7942f44bf9ebda,2b0fbd2f0c98d9ed0be6189e779d3c2010067c4d,False,Ikaruga,29,0,0,0,129.99,Overwhelmingly Positive,25
+None,1,,208610,0,,7bf859db736b8825045b0cc79acc4bb7be8cd7b9,33974b81779c888b3b4d9c4b91d86ef0907b11f3,,Skullgirls ∞Endless Beta∞,0,0,0,0,,,0
+Fighting,1,0.125,245170,2,Fighting,7bf859db736b8825045b0cc79acc4bb7be8cd7b9,ca3f7bd4fbb3cf73855ebce91b6dafc2104d651b,True,Skullgirls,508,0,0,0,129.99,Very Positive,16
+Strategy,1,0.12,262280,3,Strategy,429544f4c7680d781477059d59e5314974574db3,afb1940ff93142e6f3197ab2de68a4209617e747,True,Dungeons 2,101,0,0,0,0,Mostly Positive,25
+Platformer,1,0.333333333,263980,12,Platformer,9ef5b78baca02bd93df4050525de055b4b5c0e3a,cc2393b0264e69356d1861811e423a4b76fdfc6b,False,Out There Somewhere,155,0,0,0,0,Very Positive,36
+Strategy,1,0,270370,0,Strategy,8c6c81dabcf3576dc8492bcdf03a466b88e92abc,cec6379f7a349cd06e4029ca9a83d20af2b3d94f,True,Lambda Wars Beta,0,0,0,0,0,Very Positive,21
+Shooter,1,,225840,0,FPS,54f8d0253085201b07cbe117a823d889bed610bb,1ef26a0b4dbabb81d8d1682ffd674bc3c71a313f,True,Sven Co-op,86,0,0,0,0,Very Positive,0
+RPG,1,0.955555556,282900,43,JRPG,0cd228210df4f44ef8e77f62b18d1a9af81a72d4,c2835cfa39dbaf8e7e1f668e4bf491855a274947,False,Hyperdimension Neptunia Re;Birth1,3657,0,0,0,179.99,Very Positive,45
+Adventure,1,,283430,0,Adventure,904a09969e0c53718bb1f5e498c8d35ef30ed50a,ef6cf012c60375b43746b4d011bf748ebd93706e,False,Litil Divil,2,0,0,0,39.99,Positive,0
+RPG,1,0,286120,0,RPG,71e1c4e803110a26910f725d79bb039aa18821e1,9f576cc3094ac070735a27d156233a16cd744190,False,QuestRun,0,0,0,0,39.99,Mostly Negative,13
+Racing,1,0,286570,0,Racing,efba76526ca5cd18fabc9878c840ac583f08ead5,7f31abdf6d6a1ce630cb96f3ac34a8a6be6243c8,True,F1 2015,0,0,0,0,439.99,Mixed,45
+Racing,1,,292380,0,Racing,dc95e7d7c2a247a42e226733ebb229963b065454,4c0577f37d5eaba1cc76c9607ddd6a983fc0e78c,False,Racer 8,0,0,0,0,67.99,Mixed,0
+FMV,1,,292390,0,FMV,13abd6b022bb179fe9fdc41411ac0c525c320639,8a739324621874fa3e31b440f1712194c7674a7f,False,Realms of the Haunting,21,0,0,0,39.99,Very Positive,0
+Shooter,1,,20510,0,FPS,82713e11a93dcbdbb0e1158b2e289720000bed3c,1450b83aacc40e5a206e0c39d17b0110e376ddb8,True,S.T.A.L.K.E.R.: Clear Sky,0,0,0,0,129.99,Very Positive,0
+Board Game,1,0.042780749,282800,8,Board Game,46da4690a042d8fc6242c21d0de04500ad425e9a,3eadeca40de79192f5d1e8585ee953cea54a69ee,True,100% Orange Juice,304,0,0,0,94.99,Very Positive,187
+Shooter,1,,303390,0,FPS,23c393739364bf2fb75577bdf03c8cafc418b8e4,1d139a1ea3a0b537218e703b39f4160e1a90e0aa,False,Dead Bits,0,0,0,0,13.99,Mixed,0
+Adventure,1,0,304050,0,Adventure,76b62601bb6f0551c415697fe92a6653340f4a5e,af5b68335bcb09e5fdd40b5e25fa6475ed75f263,False,Trove,1052,0,0,0,0,Mostly Positive,19
+None,1,0.025641026,227700,3,,9b00a74fea9759c7559e7e20a81b4f25bd0a61b4,89c55efb73b88472ae69315dc691353955edcd98,,Firefall,237,0,0,0,,,117
+Shooter,1,,9480,0,Third-Person Shooter,1a0aef912300d396a67f9eda9d8b4e66c41c9891,2b9558ad2e909957d66b4d8aa5e8b51eda951f69,False,Saints Row 2,2775,0,0,0,129.99,Mostly Positive,0
+Shooter,1,0.481927711,55230,40,Third-Person Shooter,ec83645f13643999e7c91da75d418053d6b56529,1129528455a8b297fb6404cbb90e802a62881b11,False,Saints Row: The Third,1856,0,0,0,129.99,Overwhelmingly Positive,83
+Shooter,1,0.205479452,206420,15,Third-Person Shooter,b5e8448a3e2ea31ddf3595addae4e1eee2375c0d,6f7e659c6b58971ebf9710b7f0048c20c68aadd7,False,Saints Row IV,837,0,0,0,179.99,Mostly Positive,73
+Shooter,1,,312990,0,Shooter,63305a7d0473b92c6d8830a3f62527e64c479e7c,2f79038df0cb083412a603adcf933a082698a1b7,False,The Expendabros,10,0,0,0,0,Very Positive,0
+Visual Novel,1,,313740,0,Visual Novel,a726cf15cd314542c12a2e157b30f8ae5e3ec776,a011e605797b95cd94fb6109d80bc9ee836544e0,False,Sakura Spirit,0,0,0,0,129.99,Mostly Positive,0
+Adventure,1,0,314250,0,Adventure,d4c45d4dde9998049901c0afdf6499d7ef7a360e,858df3d52fa67adc5a72b1686eacc982c30c85ab,False,Jet Gunner,1,0,0,0,13.99,Mostly Positive,37
+Puzzle,1,0.2,315430,2,Puzzle,65a5e1336816df79435ac5164644c62380c3f133,fa221c44f96b38c6f5d1761019e7f9084b74b303,True,Polarity,44,0,0,0,159.99,Very Positive,10
+None,1,,16700,0,,b6d157c98d12921c4a3a13182174aa0bff22d810,b95469f2d56b6825e867dda281a1e5b5779f4644,,Stronghold Crusader Extreme HD,0,0,0,0,,,0
+Strategy,1,,40970,0,Strategy,e8ab759836e51dde895aeeb53bdb35959dae00d0,209b203f33be8f793aa7288ec7e22f93a9a2dd90,True,Stronghold Crusader HD,93,0,0,0,129.99,Very Positive,0
+Puzzle,1,0.464285714,317400,13,Puzzle,bf3360bc5594c6d1e8e0eeaaa2f7b09d6bf7a6e5,f2b748a13a54b5613a8efe07553222c0de694f20,False,Portal Stories: Mel,800,0,0,0,0,Very Positive,28
+Strategy,1,,317720,0,Strategy,3588c818f25e839bdc2ce0173a6cd6ccd9d00b63,ada31a7d8399a77982a08924126481436ffa071a,False,Tiestru,7,0,0,0,129.99,Mostly Negative,0
+None,1,,205790,0,,,014d1bb1eb6d4e8e428b5a0082b011042843c701,,Dota 2 Test,0,0,0,0,,,0
+Adventure,1,0,329380,0,Adventure,7092cf3b2009fb9cd61d6d1a19542feaeb112e07,a33c7e1f295648db3136fd498c5971f73473de57,False,Stealth Inc 2,0,0,0,0,179.99,Mostly Positive,12
+RPG,1,0.121951220,211420,5,RPG,a24804c6c8412c8cd9d50efd06bf03fa58ff80a9,d293c8e38f56de2c7097b2c7a975caca49029a8b,True,DARK SOULS™: Prepare To Die Edition,1364,0,0,0,0,Very Positive,41
+Shooter,1,0.712574850,730,119,FPS,69f7ebe2735c366c65c0b33dae00e12dc40edbe4,d0595ff02f5c79fd19b06f4d6165c3fda2372820,True,Counter-Strike: Global Offensive,31420,0,0,2680,0,Very Positive,167
+Visual Novel,1,1,333600,14,Visual Novel,dc8a35b04deece2b870c4ea8c5e46283d822932e,5a01f7640ed0554e57b7eec2ec8d632fd874cd75,False,NEKOPARA Vol. 1,283,0,0,0,0,Very Positive,14
+RPG,1,0.021739130,333980,1,JRPG,db02955f6ac396b0d700b03bb9d38d6f5a7c7798,63c0dd6867efdbb3bf72e28af39b024f630af88b,False,AKIBA'S TRIP: Undead & Undressed,90,0,0,0,224.99,Very Positive,46
+RPG,1,0,335300,0,RPG,6e665503e93d1383b774a68dfea23ac7afc0e3aa,6ca16aa1b83311e5e3e8f0f0c2b8046f5d9e95a8,True,DARK SOULS™ II: Scholar of the First Sin,0,0,0,0,439.99,Mostly Positive,38
+Visual Novel,1,,342380,0,Visual Novel,152302fc713a77006d405db54b0eaf31f462ee0a,731bea1473407465e6fb8107eba5997332503706,False,Sakura Angels,0,0,0,0,129.99,Very Positive,0
+Clicker,1,0.580645161,346900,18,Clicker,b4dd5ca1582ed52335b31960e05766fd22fa7cc4,ba7cd9eb5fe1905f7b5d25835d063437dec7f675,False,AdVenture Capitalist,2995,0,0,0,0,Mostly Positive,31
+RPG,1,0.047619048,353270,2,JRPG,f68df0aae3328c0af0c3dbdb26bf3125e6a9e466,67dba637e798d5a53b6f66bd30fa7a45d671a7b2,False,Hyperdimension Neptunia Re;Birth3 V Generation,46,0,0,0,179.99,Overwhelmingly Positive,42
+Shooter,1,,7670,0,FPS,9a7c9f640a76e6a32592277dbbc36a0f6da05372,4c2a7f97e6556a95319eb346aed7beff9fe0535c,False,BioShock,0,0,0,0,359.99,Very Positive,0
+Shooter,1,0,8850,0,FPS,f5eda925c0e57373aaea4cae17b6f175115a8d54,fde6fa1b15e4eb409c9d592197024571fded77e7,True,BioShock 2,0,0,0,0,359.99,Very Positive,68
+Shooter,1,0.35,8870,28,FPS,4ebaf5f9ee74f50152f7ff361debef7553fa0e4e,870bb889e192cf8d31876ed04d329a5d51c6fc2c,False,BioShock Infinite,742,0,0,0,395.99,Very Positive,80
+Shooter,1,0,409710,0,FPS,eb72262cd3ccc3219dd76392be3b60a4b6cbfd38,cb7318b68128f6aa90c9e4e2d14544281ac22da0,False,BioShock Remastered,0,0,0,0,359.99,Mostly Positive,65
+Shooter,1,0,409720,0,FPS,97527a02b36f8ac4aba21005c2d953cc908a08e1,34c3f591cf4cb28711d7f33f73dee0f09cdb94a4,False,BioShock 2 Remastered,0,0,0,0,359.99,Mixed,53
+Shooter,1,0.063432836,232090,17,FPS,15837cefb378766e9916548f8591b6eb490b9e52,97d6a09bcca126ebaf1488b0faed79c6772716cb,True,Killing Floor 2,293,0,0,0,0,Mixed,268
+None,1,,232150,0,,2f0e11b75760cd65922d4c0e06cf41735fe3ff89,b341754b0ca9192271226eb60c4e2a70b5b66ebe,,Killing Floor 2 - SDK,0,0,0,0,,,0
+RPG,1,,365720,0,RPG,48eaa1815ac4beddc4d7c9fec6c2517f6f0b718e,2e321af767f304de67d59f9c4329a8b8d553739b,False,Skyrim Script Extender (SKSE),1,0,0,0,0,Overwhelmingly Positive,0
+Bullet Hell,1,0.238095238,368950,5,Bullet Hell,d9f31583ef0c57b0d5044aff3d335c9ce69eaf53,46ff8ec28052a338638b51e5329a77f3c675ee31,False,Jigoku Kisetsukan: Sense of the Seasons,178,0,0,0,0,Very Positive,21
+RPG,1,0.439024390,351710,18,JRPG,4408956509788bec91f53e3cd7bdc0f8bdc3bfcf,f6f3b34fca9d67f8309afae55bce8fe0fad4a3d0,False,Hyperdimension Neptunia Re;Birth2 Sisters Generation,1134,0,0,0,179.99,Very Positive,41
+Visual Novel,1,,375200,0,Visual Novel,3fc430a6c6096d609041d684675030e468e77380,a37542d43f4e9bbc6bb13dacd033288d16a0ae1e,False,Sakura Fantasy Chapter 1,0,0,0,0,129.99,Very Positive,0
+Visual Novel,1,,377680,0,Visual Novel,45ae73240006e5f26f793c16265f63cb573d71f1,e75b5318ffd82972a739b1f88b54d07183bc74fb,False,Sakura Beach,0,0,0,0,129.99,Mostly Positive,0
+MOBA,1,0.033210332,386360,9,MOBA,7ed9de7bbfab9accb81e47b84943e7478baf2f3a,db36e43d2de5bf8913e5022425577866b2e8fd11,True,SMITE,208,0,0,0,0,Mixed,271
+None,1,,858460,0,,20e160ebdeddbb45f1066f62797cee2dff94da95,ed84d684b6a3e4afd5bd0ffa86f38320512ecfd5,,Smite - Public Test,0,0,0,0,,,0
+Hack and Slash,1,0.114285714,387340,4,Hack and Slash,029a132b80d71c8867cea543a4dd1cd7c63bf9d4,9ad044e2bcee72759ef76044d76b678e0c06bc56,False,Hyperdimension Neptunia U: Action Unleashed,39,0,0,0,179.99,Very Positive,35
+Strategy,1,0,394360,0,Strategy,134bcd93ec4d31ec4a6640d6bdd73f22f0a7619f,8e261ddeb8da5e057d0f765d8dd4833fb568fd61,True,Hearts of Iron IV,9638,0,0,341,439.99,Very Positive,92
+Visual Novel,1,0,398100,0,Visual Novel,9220d177c0e867e801ee4d64219c4f434c1de026,103caf7e6db295db67fe230054d5fedcaaedf3f0,False,Highschool Romance,0,0,0,0,159.99,Very Positive,4
+Adventure,1,0,57300,0,Adventure,2c08de657a8b273eeb55bb5bf674605ca023e381,75b8a82acfb05abda97977ac4eb5af20e0dcf01e,False,Amnesia: The Dark Descent,0,0,0,0,224.99,Very Positive,18
+Visual Novel,1,,407980,0,Visual Novel,45ae73240006e5f26f793c16265f63cb573d71f1,0e131b2f35628ae16f59215572ff0c9ea45fde24,False,Sakura Beach 2,0,0,0,0,129.99,Mostly Positive,0
+RPG,1,0.028571429,410670,1,RPG,c3b77b374e173dbe520f11187e51b6e22b14e0df,21d9d281e711b4ef79438f45da7c31190467b45b,False,Suits: A Business RPG,16,0,0,0,13.99,Very Positive,35
+Building,1,,280790,0,Building,e4937c3f653f127bdfddc17a8a544f887775e6be,02677218e2e1cb5e4cb48b6e4a26e65af70e2242,True,Creativerse,0,0,0,0,0,Mostly Positive,0
+RPG,1,0.509803922,415480,26,JRPG,92ba4551684a1e24d890736e82159b1bd8ac38d5,9c57ee4b11d5bf67f16849abf5a7cba37845e37e,False,Hyperdevotion Noire: Goddess Black Heart,4253,0,0,0,179.99,Very Positive,51
+None,1,,417890,0,,4f960147af2ae1d7d9d1162ab71f73a79e48bc37,9e467d9e431cf32848b3e563e45ac0f26fb35fff,True,Apotheon Arena,19,0,0,0,0,Very Positive,0
+Simulation,1,0,426000,0,Simulation,a40fc165593d7bc2a97d1c86598876a25c0702ae,58d552b98eb0722d89f4447e4f11dc78b8c44656,False,HunieCam Studio,0,0,0,0,94.99,Very Positive,16
+Shooter,1,,359550,0,FPS,43a47cd1ff04838e19d829559544c88715ed74cd,92b0899e9d0d11cb48d49fabf491bee1d48ed829,True,Tom Clancy's Rainbow Six Siege,53,0,0,0,0,Very Positive,0
+None,1,,623990,0,,20deaf466474f76f2ffdb345fe56f40fe3af74c0,ecad14acd27551c5bcd669e25aec9967bbe09332,,Tom Clancy's Rainbow Six Siege - Test Server,0,0,0,0,,,0
+Simulation,1,,438100,0,Simulation,52c5f93bd9f8de008307f5fad95023600267462c,62385c4bb53297d192a76829fce5d05b1f28ab90,True,VRChat,31,0,0,0,0,Very Positive,0
+RPG,1,0,374320,0,RPG,7abe1a33129c20cf10d2c74128bbd657a2a2c806,54f76fd3abdd1446260f28ccc0cbc76034b32de9,True,DARK SOULS™ III,0,0,0,0,649.99,Very Positive,43
+Shooter,1,0.189655172,444090,11,FPS,1565119c17f532338a0645b98e69e1fc1df0c29e,eeaf474bd305faa8c299d2df8e32278e10fc8c04,True,Paladins,339,0,0,0,0,Very Positive,58
+None,1,,596350,0,,0a073dec4ffe8398b74369289d0c987134e35986,fa03dc049462669246e8ea8b0fffe6445fddd712,,Paladins - Public Test,0,0,0,0,,,0
+RPG,1,0,460120,0,JRPG,3b6915aaf3acfdcbeeefa5586cb4f5a1c1ff8745,6d6917c99e988dfcc2657aaf4c54eabd0a6febfb,False,Megadimension Neptunia VII,0,0,0,0,224.99,Very Positive,35
+Adventure,1,0,470480,0,Adventure,1710a2c5c5a20e3b81b8e04c0cf59104436ea4af,4067e7a3707e4386bc670b1d255e2843a7ff54ce,True,Angel Express [Tokkyu Tenshi],25,0,0,0,129.99,Positive,15
+Platformer,1,0,48000,0,Platformer,463f57855017564301b17050fba73804b3bd86d6,9f35c3d64649a5a03b69d6a9218b1f77caf15025,False,LIMBO,95,0,0,0,129.99,Very Positive,13
+Hack and Slash,1,0,496810,0,Hack and Slash,59daa5df1084feac1b4e84d66c7ab1dac75c4a46,bfcaa082a1d124470860d5387fbb09978b817bce,False,MegaTagmension Blanc + Neptune VS Zombies,0,0,0,0,179.99,Very Positive,36
+Adventure,1,0,319630,0,Adventure,e54b13da0710a35e7088664a77632e79157d8332,e92d2b3a0c01be3bdd77ec665a3014028efaa105,False,Life is Strange™,0,0,0,0,0,Very Positive,60
+None,1,0,469820,0,,6c75b49fb3dcf2f3903878e274a13e44d100b85a,b48933865241d7a20a669476a12d183738257cb0,True,Genital Jousting,10,0,0,0,94.99,Very Positive,28
+RPG,1,0,489830,0,RPG,0dfe3eed5658f9fbd8b62f8021038c0a4190f21d,356b389ad5e6937f097b21b23acbb89608878ecf,False,The Elder Scrolls V: Skyrim Special Edition,1,0,0,0,625,Very Positive,75
+Sports,1,0.522727273,252950,46,Soccer,9ad6dd3d173523354385955b5fb2af87639c4163,3854e40582bc14b8ba3c9ee163a0fa64bc538def,True,Rocket League,6074,0,0,0,224.99,Very Positive,88
+Sports,1,0,252850,0,Sports,8c7695a2e6017605e704a52c630090349f344ae2,cc37b0e18b2a3f53cd0b38987eb6dd5fbcfb303d,True,Streamline,0,0,0,0,0,Mixed,49
+Board Game,1,0,402560,0,Board Game,00172b177589b9ecf87a8cd411b434e6b061db3b,bd0bd00bd2e0b91408cdb444babd74e2786581e6,True,Tabletopia,3,0,0,0,0,Mixed,2
+Shooter,1,0.027397260,563560,4,Top-Down Shooter,ebb7491e0400dacd15f6d09b4226ca8ee71dc1b7,4d35fcd592f741bf802ac06c7ff5bd668ce2be0e,True,Alien Swarm: Reactive Drop,14,0,0,0,0,Very Positive,146
+RPG,1,0,571530,0,RPG,b8b71210b9b448a868cd03e93e3ba1f159116834,eb487e2f847bfe6e3067d0cb3756f5f6e26c6c1c,False,Superdimension Neptune VS Sega Hard Girls,0,0,0,0,224.99,Very Positive,38
+Visual Novel,1,0.1,575510,1,Visual Novel,d5d234c5eff71c589b1f1751d4c349554f2192cf,69840c24d6be25d8f608b0b9f79b7e4d2d4365e4,False,Sakura Agent,15,0,0,0,129.99,Mostly Positive,10
+Shooter,1,0.162162162,578080,6,Shooter,93d896e7d7a42ae35c1d77239430e1d90bc82cae,2d2732a33511b58c69aff6b098a22687a3bb8533,True,PLAYERUNKNOWN'S BATTLEGROUNDS,3141,0,0,0,0,Mixed,37
+Shooter,1,0,218620,0,FPS,a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414,4467a70648f49a6b309b41b81b4531f9a20ed99d,True,PAYDAY 2,0,0,0,0,0,Very Positive,1130
+Adventure,1,0,323580,0,Adventure,69b336a11a1e8acee4034b970a89c1df7cf53b32,09e4f191cbafba7d3cde386e73abe1e0504146b4,False,Jotun: Valhalla Edition,0,0,0,0,179.99,Very Positive,36
+Visual Novel,1,,698780,0,Visual Novel,2bf8ed528d8f251428435a6f6ffc8e4e8e4b294c,76c3e09407e445568c9bb32d77bf364168ea45ed,False,Doki Doki Literature Club,0,0,0,0,0,Overwhelmingly Positive,0
+Bullet Hell,1,,745880,0,Bullet Hell,13b9f16dfcf3f8c3dd859c78c73ae70d39db28e7,f94a8001490d43d01aef7feca5ae30f5585b7ed9,False,東方天空璋 ～ Hidden Star in Four Seasons.,116,0,0,0,179.99,Overwhelmingly Positive,0
+Battle Royale,1,,755790,0,Battle Royale,bff111ed4307fc769143eb3d652fb940c363e37e,2bd082f4dfc8251d5ed8b198e08f273c431e7b6c,False,Ring of Elysium,45,0,0,0,0,Mixed,0
+Battle Royale,1,0,813820,0,Battle Royale,9c57e70460f256b775b9131591cc26ddf08d8afa,14d9eaf782b608a3299825a7522b82e97de1cba8,True,Realm Royale,93,0,0,0,0,Mostly Positive,22
+None,1,,878760,0,,9c57e70460f256b775b9131591cc26ddf08d8afa,b3c468b4233ff613346f7d4ecf8ed9492427cd29,,Realm Royale - Test Server,0,0,0,0,,,0
+RPG,1,0,632350,0,JRPG,36766655ef9a0090fdfd3dce180723893ca706d5,0b2eca70bf99056e861a1cde2f5135552a2d75ac,False,Cyberdimension Neptunia: 4 Goddesses Online,0,0,0,0,329.99,Very Positive,50
+Hacking,1,0,365450,0,Hacking,2445c4ead6ee47784a326922271ec1c0b41d64e2,50479f0bfe5a552132a0fc2668640b2e6a737398,False,Hacknet,0,0,0,0,129.99,Very Positive,11
+Fighting,1,,304390,0,Fighting,64dd8eca34f0b5faeda135f057da1973806852f2,7d851b600a101d37c1b2e3e542fe02a3013a3283,False,For Honor,0,0,0,0,559,Mixed,0
+None,1,,654310,0,,64dd8eca34f0b5faeda135f057da1973806852f2,fd4e6f834821573215fd71803958f2c0bb8411ec,,For Honor - Public Test,0,0,0,0,,,0
+Strategy,1,0,231430,0,Strategy,5e7e1866fb4f33a17393b0441cd1c750dbd91c5f,1be017e709b9b0638e82b399cc97de4667f44a1e,True,Company of Heroes 2,0,0,0,0,224.99,Mixed,452
+Strategy,1,0,204880,0,Strategy,31832cdd443b665a8ae599f76761411f3d939b98,cf3a1034cce00de47f88675627c620d841572206,True,Sins of a Solar Empire: Rebellion,0,0,0,0,439.99,Very Positive,68
+Battle Royale,1,0,308600,0,Battle Royale,ad5a53a4d002455f24a246515e0580b1aae4f691,d28bd59b1396fc128035d89d38e88afc36f22fce,True,Geneshift: Battle Royale Turbo,0,0,0,0,0,Very Positive,40
+Sports,1,0,431930,0,Sports,17c693c655d7b0d05c4aae328a90e7ed57b225ab,e9a69c6f4cec272a388ace024e254607f2da1505,True,Kabounce,0,0,0,0,179.99,Very Positive,50
+Shooter,1,0.082692308,440,43,FPS,e3f595a92552da3d664ad00277fad2107345f743,07385eb55b5ba974aebbe74d3c99626bda7920b8,True,Team Fortress 2,1211,0,0,0,0,Very Positive,520
+MOBA,1,,570,0,MOBA,0bbb630d63262dd66d2fdd0f7d37e8661a410075,d4f836839254be08d8e9dd333ecc9a01782c26d2,True,Dota 2,297,0,0,0,0,Mostly Positive,0
+Shooter,1,0.045454545,630,3,Shooter,67126b5081b423af53f5e88e8e81d91b15daa644,de3320a2c29b55b6f21d142dee26d9b044a29e97,True,Alien Swarm,29,0,0,0,0,Mostly Positive,66
+Shooter,1,0,17520,0,FPS,cd0cceaa6856b0309fa44355c53b91ee0be0bb8b,8dc4b40628fe30c38c04a69c985568313383fb17,True,Synergy,16,0,0,0,0,Very Positive,1
