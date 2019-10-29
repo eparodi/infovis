@@ -3,6 +3,9 @@ let genreGamesChart;
 let multiplayerChart;
 let playedChart;
 let dataCount;
+let hoursPlayedNumber;
+let moneyWastedNumber;
+let achievementsEarnedNumber;
 
 $(document).ready(() => {
     genrePlaytimeChart = dc.rowChart("#genrePlaytimeChart");
@@ -10,6 +13,9 @@ $(document).ready(() => {
     multiplayerChart = dc.pieChart("#multiplayerChart");
     playedChart = dc.pieChart("#playedChart");
     dataCount = dc.dataCount('.data-count');
+    hoursPlayedNumber = dc.numberDisplay('#hoursPlayedNumber');
+    moneyWastedNumber = dc.numberDisplay('#moneyWastedNumber');
+    achievementsEarnedNumber = dc.numberDisplay('#achievementsEarnedNumber');
 
     d3.csv("data/steam_games_decorated._csv", (data) => {
         data = data.filter((data) => data["Genres"] !== "None");
@@ -40,10 +46,27 @@ $(document).ready(() => {
                 p.playtime -= parseInt(v["Playtime Forever"]);
                 return p;
             },
-            () => { return {count: 0, playtime: 0} }
+            () => {
+                return {
+                    count: 0,
+                    playtime: 0
+                }
+            }
         );
         let multiplayerGroup = multiplayer.group();
         let playedGroup = played.group();
+
+        hoursPlayedNumber
+            .valueAccessor((d) => d / 60)
+            .group(ndx.groupAll().reduceSum((d) => parseInt(d["Playtime Forever"])));
+
+        moneyWastedNumber
+            .valueAccessor((d) => d)
+            .group(ndx.groupAll().reduceSum((d) => d["Price"]));
+
+        achievementsEarnedNumber
+            .valueAccessor((d) => d)
+            .group(ndx.groupAll().reduceSum((d) => d["Earned Achievements"]));
 
         dataCount
             .dimension(ndx)
@@ -55,7 +78,7 @@ $(document).ready(() => {
             .dimension(genre)
             .group(genreGroup)
             .elasticX(true)
-            .title((d) => d.value.playtime)
+            .title((d) => Math.floor(d.value.playtime) / 60 + ":" + d.value.playtime % 60)
             .valueAccessor((d) => d.value.playtime)
             .ordering((d) => - d.value.playtime);
 
@@ -65,7 +88,7 @@ $(document).ready(() => {
             .dimension(genre)
             .group(genreGroup)
             .elasticX(true)
-            .title((d) => d.value.count)
+            .title((d) => d.value.count + " games")
             .valueAccessor((d) => d.value.count)
             .ordering((d) => - d.value.count);
 
